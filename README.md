@@ -1,2 +1,2 @@
 # Simple_APIs_02
-Using NASA API 
+Using Pokemon APi
